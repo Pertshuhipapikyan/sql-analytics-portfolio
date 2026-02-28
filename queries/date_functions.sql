@@ -94,7 +94,8 @@ FROM  sales_analysis
 GROUP BY customer_name;
 
 
-
+c:\Users\User\Pictures\Screenshots\Screenshot 2026-02-28 183826.png
+c:\Users\User\Pictures\Screenshots\Screenshot 2026-02-28 184007.png
 
 --Over time, sales have experienced significant fluctuations. Monthly data shows sharp peaks and troughs, revealing short-term volatility and operational shocks. Quarterly aggregation smooths these fluctuations, highlighting momentum and seasonal patterns, while yearly aggregation emphasizes long-term growth and structural trends.
 --The choice of time grain matters because it changes how performance is perceived: monthly shows instability, quarterly shows cyclical patterns, and yearly shows overall direction.
