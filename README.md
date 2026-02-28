@@ -70,7 +70,7 @@ ORDER BY month;
 ```
 
 
-## Session 06: DA with SQL | String Functions
+##  06: DA with SQL | String Functions
 
 - Cleaning and transforming text fields  
 - Using `REPLACE()`, `TRIM()`, `REGEXP_REPLACE()`
@@ -88,7 +88,7 @@ SELECT
   REPLACE(REPLACE(REPLACE(TRIM(raw_phone), '-', ''), '(', ''), ')', '') AS phone_clean
 FROM transactions_text_demo;
 ```
-## Session 07: DA with SQL | Date Functions
+##  07: DA with SQL | Date Functions
 
 - Using `DATE_TRUNC()` to aggregate by month, quarter, year  
 - Calculating days since last transaction
